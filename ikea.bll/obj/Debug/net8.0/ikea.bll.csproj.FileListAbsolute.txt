@@ -1,0 +1,11 @@
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\bin\Debug\net8.0\ikea.bll.deps.json
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\bin\Debug\net8.0\ikea.bll.dll
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\bin\Debug\net8.0\ikea.bll.pdb
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\obj\Debug\net8.0\ikea.bll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\obj\Debug\net8.0\ikea.bll.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\obj\Debug\net8.0\ikea.bll.AssemblyInfo.cs
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\obj\Debug\net8.0\ikea.bll.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\obj\Debug\net8.0\ikea.bll.dll
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\obj\Debug\net8.0\refint\ikea.bll.dll
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\obj\Debug\net8.0\ikea.bll.pdb
+C:\Users\misho\source\repos\mvc assignment 3\ikea.bll\obj\Debug\net8.0\ref\ikea.bll.dll

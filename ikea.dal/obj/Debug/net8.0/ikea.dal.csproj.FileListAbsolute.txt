@@ -1,0 +1,12 @@
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\bin\Debug\net8.0\ikea.dal.deps.json
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\bin\Debug\net8.0\ikea.dal.dll
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\bin\Debug\net8.0\ikea.dal.pdb
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\obj\Debug\net8.0\ikea.dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\obj\Debug\net8.0\ikea.dal.AssemblyInfoInputs.cache
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\obj\Debug\net8.0\ikea.dal.AssemblyInfo.cs
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\obj\Debug\net8.0\ikea.dal.csproj.CoreCompileInputs.cache
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\obj\Debug\net8.0\ikea.dal.dll
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\obj\Debug\net8.0\refint\ikea.dal.dll
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\obj\Debug\net8.0\ikea.dal.pdb
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\obj\Debug\net8.0\ref\ikea.dal.dll
+C:\Users\misho\source\repos\mvc assignment 3\ikea.dal\obj\Debug\net8.0\ikea.dal.csproj.AssemblyReference.cache
