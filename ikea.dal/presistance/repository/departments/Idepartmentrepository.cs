@@ -7,12 +7,13 @@ using ikea.dal.models.departments;
 
 namespace ikea.dal.presistance.repository.departments
 {
-    internal interface Idepartmentrepository
+    public interface Idepartmentrepository
     {
-        IEnumerable<depatment> getall(bool withasnotracking = true);
-        depatment? getbyid(int id);
-        int add(depatment entity);
-        int update(depatment entity);
-        int delete(depatment entity);   
+        IEnumerable<Department> getall(bool withasnotracking = true);
+        IQueryable<Department> getallasquarable();
+        Department? getbyid(int id);
+        int add(Department entity);
+        int update(Department entity);
+        int delete(Department entity);   
     }
 }

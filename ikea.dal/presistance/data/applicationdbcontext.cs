@@ -25,7 +25,7 @@ namespace ikea.dal.presistance.data
         }
         #region dbset
 
-        public DbSet <depatment> Depatments { get; set; }  
+        public DbSet <Department> Depatments { get; set; }  
         #endregion
 
     }

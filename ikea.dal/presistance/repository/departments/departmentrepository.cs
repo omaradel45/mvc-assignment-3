@@ -9,7 +9,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ikea.dal.presistance.repository.departments
 {
-    internal class departmentrepository : Idepartmentrepository   
+    public class departmentrepository : Idepartmentrepository   
     {
 
         public departmentrepository(applicationdbcontext dbcontext) {
@@ -17,7 +17,7 @@ namespace ikea.dal.presistance.repository.departments
             _dbcontext = dbcontext;
         }
         
-        public IEnumerable<depatment> getall(bool withasnotracking = true)
+        public IEnumerable<Department> getall(bool withasnotracking = true)
         {
             if (withasnotracking)
             {
@@ -27,30 +27,35 @@ namespace ikea.dal.presistance.repository.departments
             return _dbcontext.departments.tolist();
         }
 
-        public depatment? getbyid(int id)
+        public Department? getbyid(int id)
         {
             var departmennt = _dbcontext.departments.local.firstordefault(D => D.id == id);
             var department = _dbcontext.departments.find(id);
             return departmennt;
         }
 
-        public int add(depatment entity)
+        public int add(Department entity)
         {
             _dbcontext.departments.add(entity);
             return _dbcontext.savechanges();
         }
-        public int update(depatment entity)
+        public int update(Department entity)
         {
             _dbcontext.departments.update(entity);
             return _dbcontext.savechanges();
 
 
         }
-        public int delete(depatment entity)
+        public int delete(Department entity)
         {
             dbcontext.departments.remove(entity);
             return _dbcontext.savechanges();
         }
 
+        public IQueryable<Department> getallasquarable()
+        {
+            return _dbcontext.departments;
+
+                }
     }
 }

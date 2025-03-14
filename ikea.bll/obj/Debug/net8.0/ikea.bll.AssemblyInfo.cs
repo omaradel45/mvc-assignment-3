@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ikea.bll")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c1e401e1fde15c2ebec9a08807398edc36ea7b9d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ikea.bll")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ikea.bll")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

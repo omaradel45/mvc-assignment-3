@@ -11,16 +11,16 @@ using System.Reflection;
 
 namespace ikea.dal.presistance.data.configurations.departments
 {
-    internal class departmentconfigurations : IEntityTypeConfiguration<depatment>
+    internal class departmentconfigurations : IEntityTypeConfiguration<Department>
     {
-        public void Configure(EntityTypeBuilder<depatment> builder)
+        public void Configure(EntityTypeBuilder<Department> builder)
 
         {
 
             builder.Property(D=>D.Id).UseIdentityColumn( 10 , 10);
             builder.Property(d => d.name).HasColumnType("varchar(50)").IsRequired();
             builder.Property(d => d.code).HasColumnType("varchar(50)").IsRequired();
-            builder.Property(D => D.createdon).HasDefaultValueSql("GETDATE()");
+            builder.Property(D => D.createdon).HasDefaultValueSql("GETUTCDATE()");
             builder.Property(D => D.lastmodifiedon).HasComputedColumnSql("GETDATE()");
 
 

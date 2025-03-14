@@ -1,4 +1,5 @@
 using ikea.dal.presistance.data;
+using ikea.dal.presistance.repository.departments;
 using Microsoft.EntityFrameworkCore;
 
 namespace ikea.pl
@@ -14,7 +15,8 @@ namespace ikea.pl
             builder.Services.AddControllersWithViews();
             builder.Services.AddDbContext<applicationdbcontext>((optionsbuilder => optionsbuilder.UseSqlServer(builder.Configuration.GetConnectionString(defaultconnection);
             #endregion
-
+            builder.Services.AddScoped<Idepartmentrepository, departmentrepository>();
+            builder.Services.AddScoped<Idepartmentservice, departmentrservice>();
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 

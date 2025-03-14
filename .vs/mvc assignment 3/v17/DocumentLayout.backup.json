@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|solutionrelative:ikea.dal\\presistance\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{76965C14-8F62-4DAF-A056-A2359391D0CE}|ikea.bll\\ikea.bll.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.bll\\services\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{76965C14-8F62-4DAF-A056-A2359391D0CE}|ikea.bll\\ikea.bll.csproj|solutionrelative:ikea.bll\\services\\idepartmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B8D64704-62CD-4FA1-8E59-DECDC5A79A4C}|ikea.pl\\ikea.pl.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B8D64704-62CD-4FA1-8E59-DECDC5A79A4C}|ikea.pl\\ikea.pl.csproj|solutionrelative:ikea.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\models\\departments\\depatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|solutionrelative:ikea.dal\\models\\departments\\depatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\repository\\departments\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|solutionrelative:ikea.dal\\presistance\\repository\\departments\\departmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\repository\\departments\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|solutionrelative:ikea.dal\\presistance\\repository\\departments\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B8D64704-62CD-4FA1-8E59-DECDC5A79A4C}|ikea.pl\\ikea.pl.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,12 +27,16 @@
       "RelativeMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|solutionrelative:ikea.dal\\presistance\\data\\configurations\\departments\\departmentconfigurations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\models\\departments\\depatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|solutionrelative:ikea.dal\\models\\departments\\depatment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|solutionrelative:ikea.dal\\presistance\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F5068854-813F-43B6-A9C5-B49728D96717}|ikea.dal\\ikea.dal.csproj|solutionrelative:ikea.dal\\models\\modelbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D64704-62CD-4FA1-8E59-DECDC5A79A4C}|ikea.pl\\ikea.pl.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B8D64704-62CD-4FA1-8E59-DECDC5A79A4C}|ikea.pl\\ikea.pl.csproj|solutionrelative:ikea.pl\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{76965C14-8F62-4DAF-A056-A2359391D0CE}|ikea.bll\\ikea.bll.csproj|c:\\users\\misho\\source\\repos\\mvc assignment 3\\ikea.bll\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,37 +50,73 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\appsettings.json",
-              "RelativeDocumentMoniker": "ikea.pl\\appsettings.json",
-              "ToolTip": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\appsettings.json*",
-              "RelativeToolTip": "ikea.pl\\appsettings.json*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-13T01:17:15.252Z",
+              "DocumentIndex": 0,
+              "Title": "Idepartmentservice.cs",
+              "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.bll\\services\\Idepartmentservice.cs",
+              "RelativeDocumentMoniker": "ikea.bll\\services\\Idepartmentservice.cs",
+              "ToolTip": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.bll\\services\\Idepartmentservice.cs",
+              "RelativeToolTip": "ikea.bll\\services\\Idepartmentservice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T23:25:14.326Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\Program.cs",
-              "RelativeDocumentMoniker": "ikea.pl\\Program.cs",
-              "ToolTip": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\Program.cs*",
-              "RelativeToolTip": "ikea.pl\\Program.cs*",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAxwA4AAACxAAAAAAAAAA==",
+              "Title": "departmentrepository.cs",
+              "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\repository\\departments\\departmentrepository.cs",
+              "RelativeDocumentMoniker": "ikea.dal\\presistance\\repository\\departments\\departmentrepository.cs",
+              "ToolTip": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\repository\\departments\\departmentrepository.cs",
+              "RelativeToolTip": "ikea.dal\\presistance\\repository\\departments\\departmentrepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAADIAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T01:02:32.297Z",
+              "WhenOpened": "2025-03-13T01:49:49.236Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "Idepartmentrepository.cs",
+              "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\repository\\departments\\Idepartmentrepository.cs",
+              "RelativeDocumentMoniker": "ikea.dal\\presistance\\repository\\departments\\Idepartmentrepository.cs",
+              "ToolTip": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\repository\\departments\\Idepartmentrepository.cs",
+              "RelativeToolTip": "ikea.dal\\presistance\\repository\\departments\\Idepartmentrepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:43:13.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\appsettings.json",
+              "RelativeDocumentMoniker": "ikea.pl\\appsettings.json",
+              "ToolTip": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\appsettings.json",
+              "RelativeToolTip": "ikea.pl\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-13T01:17:15.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\Program.cs",
+              "RelativeDocumentMoniker": "ikea.pl\\Program.cs",
+              "ToolTip": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.pl\\Program.cs",
+              "RelativeToolTip": "ikea.pl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-13T01:02:32.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "departmentconfigurations.cs",
               "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\data\\configurations\\departments\\departmentconfigurations.cs",
               "RelativeDocumentMoniker": "ikea.dal\\presistance\\data\\configurations\\departments\\departmentconfigurations.cs",
@@ -76,38 +124,36 @@
               "RelativeToolTip": "ikea.dal\\presistance\\data\\configurations\\departments\\departmentconfigurations.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:22:50.823Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T00:22:50.823Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "applicationdbcontext.cs",
               "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\data\\applicationdbcontext.cs",
               "RelativeDocumentMoniker": "ikea.dal\\presistance\\data\\applicationdbcontext.cs",
-              "ToolTip": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\data\\applicationdbcontext.cs*",
-              "RelativeToolTip": "ikea.dal\\presistance\\data\\applicationdbcontext.cs*",
+              "ToolTip": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\presistance\\data\\applicationdbcontext.cs",
+              "RelativeToolTip": "ikea.dal\\presistance\\data\\applicationdbcontext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:15:00.925Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T00:15:00.925Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "depatment.cs",
               "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\models\\departments\\depatment.cs",
               "RelativeDocumentMoniker": "ikea.dal\\models\\departments\\depatment.cs",
               "ToolTip": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\models\\departments\\depatment.cs",
               "RelativeToolTip": "ikea.dal\\models\\departments\\depatment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-13T00:12:10.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "modelbase.cs",
               "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.dal\\models\\modelbase.cs",
               "RelativeDocumentMoniker": "ikea.dal\\models\\modelbase.cs",
@@ -115,12 +161,11 @@
               "RelativeToolTip": "ikea.dal\\models\\modelbase.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-13T00:07:57.092Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-13T00:07:57.092Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\misho\\source\\repos\\mvc assignment 3\\ikea.bll\\Class1.cs",
               "RelativeDocumentMoniker": "ikea.bll\\Class1.cs",
@@ -128,8 +173,7 @@
               "RelativeToolTip": "ikea.bll\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T23:51:10.747Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-12T23:51:10.747Z"
             }
           ]
         }
